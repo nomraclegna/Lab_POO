@@ -29,7 +29,7 @@ public class GestorArchivosCarmona9119 {
     public String leerArchivoTexto(String nombreArchivo) throws IOException {
         Path path = Paths.get(nombreArchivo);
         if (!Files.exists(path)) {
-            return "ERROR: Archivo no encontrado.";
+            return "ERROR. Archivo no encontrado.";
         }
         return Files.readString(path);
     }
