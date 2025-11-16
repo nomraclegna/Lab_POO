@@ -72,5 +72,4 @@ Se instaló el IDE de JetBrains para el desarrollo del código Java.
 
 
 
-Ejecución y depuración del programa: https://drive.google.com/file/d/1nXqivrw9JpR7uPL\_s1YgI758h4Rf94LC/view?usp=drive\_link
-
+Ejecución y depuración del programa: https://drive.google.com/file/d/1nXqivrw9JpR7uPL_s1YgI758h4Rf94LC/view?usp=drive_link
