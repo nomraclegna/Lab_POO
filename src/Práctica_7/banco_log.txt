@@ -1,0 +1,10 @@
+nov 15, 2025 6:47:07 P.M. Práctica_7.SistemaBancoAC <clinit>
+INFO: ~~~ Sistema de logging iniciado por Angel Carmona (2069119) ~~~
+nov 15, 2025 6:47:07 P.M. Práctica_7.SistemaBancoAC realizarTransaccion
+INFO: Transacción por 500.0 para AECL9119
+nov 15, 2025 6:47:26 P.M. Práctica_7.SistemaBancoAC <clinit>
+INFO: ~~~ Sistema de logging iniciado por Angel Carmona (2069119) ~~~
+nov 15, 2025 6:47:36 P.M. Práctica_7.SistemaBancoAC <clinit>
+INFO: ~~~ Sistema de logging iniciado por Angel Carmona (2069119) ~~~
+nov 15, 2025 6:47:36 P.M. Práctica_7.SistemaBancoAC realizarTransaccion
+WARNING: Intento de acceso fallido: ERROR. El usuario 'usuario_falso' no se encontró.
