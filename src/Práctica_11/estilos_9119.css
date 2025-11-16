@@ -1,0 +1,19 @@
+.root {
+    -fx-background-color: #E0FFFF;
+}
+
+.button-personalizado {
+    -fx-font-size: 14pt;
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(#4d91fd, #3c7ce4);
+}
+
+.error-field {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+}
+
+.error-label {
+    -fx-text-fill: red;
+    -fx-font-size: 10pt;
+}
